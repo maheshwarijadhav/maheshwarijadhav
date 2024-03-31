@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👩🏽‍💻, I'm Maheshwari</h1>
 <h3 align="center">I play around with codes!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://wifflegif.com/gifs/664860-virtual-reality-aesthetic-gif">
+<img align="right" alt="Coding" width="400" src="https://playground.com/post/a-women-sitting-at-a-desk-with-a-laptop-and-headphones-on-a-clqf276xt09q6s6015prer7zi">
 
 
 - 🔭 I’m currently working on **AIML and Web devlopement**

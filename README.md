@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👩🏽‍💻, I'm Maheshwari</h1>
 <h3 align="center">I play around with codes!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/060/016/432/original/tuane-kluck-background-anim.gif">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1LCcBgx4_goK6KeYX-Qa8mKAC-r33K9ec/view?usp=sharing">
 
 
 - 🔭 I’m currently working on **AIML and Web devlopement**

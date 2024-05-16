@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Maheshwari 👩🏽‍💻</h1>
-<h3 align="center">I play around with codes! \n💻🎧☕📓</h3>
+<h3 align="center">I play around with codes! 💻🎧☕📓</h3>
 
 
 

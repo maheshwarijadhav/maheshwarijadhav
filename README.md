@@ -1,7 +1,7 @@
 # Hey there! I'm Maheshwari 👩🏽‍💻
 
 <p align="center">
-  <img src="[https://i.redd.it/n8agw6z2smyb1.gif](https://gifs.alphacoders.com/gifs/view/212548)" width="1100">
+  <img src="https://giffiles.alphacoders.com/212/212548.gif" width="1100">
 </p>
 
 <p align="start">
@@ -28,28 +28,23 @@ I'm an AI and Machine Learning enthusiast with a passion for developing innovati
 ## 🚀 Projects
 
 ### MARS: Multi-modal AI Research System
-- [GitHub](https://github.com/SahilBhoite/MARS)
+
 - Tech Stack: LLMs, NLP, RAG, LangChain, Neural Networks, Multiprocessing, Embeddings, OpenCV, Vector DB, Gen AI
 - Engineered a robust & scalable file ingestion module for seamless concurrent processing.
 - Prepared two Large Language Models, achieving 77% accuracy in answering complex questions.
 
 ### KARM: Knowledge-Enhanced Assistance for Resume Management
-- [GitHub](https://github.com/SahilBhoite/KARM)
+
 - Tech Stack: LLMs, Conversational AI, Prompt Engineering, NER, Ollama, Reinforcement Learning, MLOps, Fine-Tuning
 - Developed an ATS-friendly resume generator with a conversational interface for resume fine-tuning using LLMs.
 - Engineered a scalable resume parser for various formats, handling 100s of resumes, saving 30-60 mins per resume.
 
 ### Bull's AI: Algorithmic Stock Prediction
-- [GitHub](https://github.com/SahilBhoite/BullsAI)
+
 - Tech Stack: Machine Learning, Financial Data APIs, Deep Learning (LSTM), SVM, Flask, Cloud ML Services, News API
 - Generated consistently precise stock forecasts using cutting-edge ML algorithms with 95% accurate predictions.
 - Delivered highly precise intraday predictions, leading to simulated trades with 29% annualized excess returns.
 
-### AIDAS: Artificial Intelligence Driver-Assistance System
-- [GitHub](https://github.com/SahilBhoite/AIDAS)
-- Tech Stack: Computer Vision, TensorFlow/PyTorch, Artificial Sensors, Neural Networks, V2X Protocols, Edge AI
-- Mastered high-accuracy computer vision with neural networks for obstacle classification & refined car control
-- Improved deep learning models to reduce inference latency by 15%, enabling real-time autonomous driving decisions.
 
 ## 🛠 Technical Skills
 
@@ -73,13 +68,11 @@ I'm an AI and Machine Learning enthusiast with a passion for developing innovati
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23007ACC.svg?style=flat&logo=Seaborn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat&logo=sql&logoColor=white)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 ### Frameworks & Tools
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=flat&logo=LangChain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=flat&logo=Hugging-Face&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white)
@@ -93,7 +86,7 @@ I'm an AI and Machine Learning enthusiast with a passion for developing innovati
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/maheshwari-jadhav)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:work.sahilbhoite@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maheshwari.jdv18@gmail.com)
 
 
 

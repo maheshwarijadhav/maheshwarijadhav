@@ -8,22 +8,22 @@
   <img src="https://profile-counter.glitch.me/{SahilBhoite}/count.svg" alt="Visitor Count" width="180" height="24" />
 </p>
 
-I'm an AI and Machine Learning enthusiast with a passion for developing innovative solutions. Currently pursuing my Bachelor of Technology in Computer Engineering. I have experience in various AI/ML and website devlopement projects and internships, focusing on cutting-edge technologies like LLMs, Computer Vision, and Reinforcement Learning.
+I'm the AI whisperer and Machine Learning aficionado you never knew you needed. Currently juggling my Bachelor of Technology in Computer Engineering while dabbling in cutting-edge tech like LLMs, Computer Vision, and Reinforcement Learning. Yeah, I like to keep it interesting.
 
 ## 🎓 Education
 
 - **MIT Academy of Engineering, Pune (Savitribai Phule Pune University)**
   - Bachelor of Technology in Computer Engineering.
   - 2021–2025
-  - GPA: 8.9/10
+  - GPA: 8.9/10 (Because apparently, "perfect" is overrated)
 
 ## 💼 Experience
 
 ### ANMsoft Technologies
 **AI ML Intern** | April 2024–June 2024 | Pune, Maharashtra
-- Customized open source LLM for R&D purposes, reducing inference time by 20% & lowering deployment costs by 15%.
-- Enhanced an innovative RNN-based demand prediction system, improving file inventory planning accuracy by 10%.
-- Worked on end-to-end machine learning applications, including model retraining based on feedback mechanisms.
+- Custom-tuned an open-source LLM so it’s 20% faster and 15% cheaper—because who doesn’t like a good discount?
+- Upgraded an RNN-based demand prediction system by 10%, proving that even algorithms appreciate a little pampering.
+- Mastered end-to-end ML applications and made feedback loops my best friend.
 
 ## 🚀 Projects
 
@@ -31,20 +31,19 @@ I'm an AI and Machine Learning enthusiast with a passion for developing innovati
 
 - Tech Stack: LLMs, NLP, RAG, LangChain, Neural Networks, Multiprocessing, Embeddings, OpenCV, Vector DB, Gen AI
 - Engineered a robust & scalable file ingestion module for seamless concurrent processing.
-- Prepared two Large Language Models, achieving 77% accuracy in answering complex questions.
+- Prepared two Large Language Models, achieving 77% accuracy in answering complex questions (because mediocre is so last season).
 
 ### KARM: Knowledge-Enhanced Assistance for Resume Management
 
 - Tech Stack: LLMs, Conversational AI, Prompt Engineering, NER, Ollama, Reinforcement Learning, MLOps, Fine-Tuning
 - Developed an ATS-friendly resume generator with a conversational interface for resume fine-tuning using LLMs.
-- Engineered a scalable resume parser for various formats, handling 100s of resumes, saving 30-60 mins per resume.
+- Engineered a scalable resume parser for various formats, handling 100s of resumes and saving 30-60 mins per resume (so you can actually enjoy your coffee break).
 
 ### Bull's AI: Algorithmic Stock Prediction
 
 - Tech Stack: Machine Learning, Financial Data APIs, Deep Learning (LSTM), SVM, Flask, Cloud ML Services, News API
 - Generated consistently precise stock forecasts using cutting-edge ML algorithms with 95% accurate predictions.
-- Delivered highly precise intraday predictions, leading to simulated trades with 29% annualized excess returns.
-
+- Delivered highly precise intraday predictions, leading to simulated trades with 29% annualized excess returns (because who doesn’t like a little extra?)
 
 ## 🛠 Technical Skills
 
@@ -68,9 +67,7 @@ I'm an AI and Machine Learning enthusiast with a passion for developing innovati
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23007ACC.svg?style=flat&logo=Seaborn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat&logo=sql&logoColor=white)
 
-
 ### Frameworks & Tools
-
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=flat&logo=LangChain&logoColor=white)
@@ -81,13 +78,9 @@ I'm an AI and Machine Learning enthusiast with a passion for developing innovati
 ## 🏆 Achievements
 
 - 4th Position: Unstop Talent Park
-- 4th Position: FINquest 5.0 by IIM
+- 4th Position: FINquest 5.0 by IIM (Yes, I am consistent!)
 
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/maheshwari-jadhav)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maheshwari.jdv18@gmail.com)
-
-
-
----

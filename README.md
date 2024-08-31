@@ -1,7 +1,7 @@
 # Hey there! I'm Maheshwari 👩🏽‍💻
 
 <p align="center">
-  <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="1100">
+  <img src="[https://i.redd.it/n8agw6z2smyb1.gif](https://gifs.alphacoders.com/gifs/view/212548)" width="1100">
 </p>
 
 <p align="start">

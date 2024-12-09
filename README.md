@@ -15,11 +15,11 @@ I'm the AI whisperer and Machine Learning aficionado you never knew you needed. 
 - **MIT Academy of Engineering, Pune (Savitribai Phule Pune University)**
   - Bachelor of Technology in Computer Engineering.
   - 2021–2025
-  - GPA: 8.9/10 (Because apparently, "perfect" is overrated)
+  - GPA: 8.1/10 (Because apparently, "perfect" is overrated)
 
 ## 💼 Experience
 
-### ANMsoft Technologies
+### Vivada Technologies
 **AI ML Intern** | April 2024–June 2024 | Pune, Maharashtra
 - Custom-tuned an open-source LLM so it’s 20% faster and 15% cheaper—because who doesn’t like a good discount?
 - Upgraded an RNN-based demand prediction system by 10%, proving that even algorithms appreciate a little pampering.
